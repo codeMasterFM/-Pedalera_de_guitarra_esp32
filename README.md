@@ -24,9 +24,6 @@ Este proyecto convierte un ESP32 en una pedalera MIDI/HID Bluetooth que emula un
 - Arduino IDE con soporte ESP32
 - Biblioteca: [`BleKeyboard`](https://github.com/T-vK/ESP32-BLE-Keyboard)
 
-## ⚡ Esquema de conexión
-
-
 ## 💡 Características adicionales
 
 - **Debounce inteligente**: evita múltiples registros por un solo toque.
@@ -40,10 +37,6 @@ Este proyecto convierte un ESP32 en una pedalera MIDI/HID Bluetooth que emula un
 3. Carga el código `pedalera_ble.ino`.
 4. Empareja el ESP32 con tu PC como dispositivo Bluetooth (aparecerá como `TecladoBLE`).
 5. ¡Listo para usar!
-
-## 📷 Capturas o videos (opcional)
-
-> Si tienes un video o gif, agrégalo aquí para mostrar el uso en acción.
 
 ## 📜 Licencia
 
